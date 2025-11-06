@@ -1,2 +1,3 @@
 tambah fitur 2.txt
 edit fitur 8
+edit fitur 10
